@@ -11,6 +11,7 @@
 
 ## 🗒️About
 ```c
+#define no_CupofTea 1
 void init()
 {
 char name[] = "Nada Essam";
@@ -18,9 +19,9 @@ char university[] ="Al-Azhar";
 char language_spoken[3][10] = {"C", "C++", "java", "python"};
 }
 
-void my_day()
+while(no_CupofTea)
 {
-  printf("1 cup of tea with 2 hour of code");
+  printf("Coding...");
 }
 ```
 ## 🗻 Experience
