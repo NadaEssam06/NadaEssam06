@@ -16,7 +16,8 @@ void init()
 {
 char name[] = "Nada Essam";
 char university[] ="Al-Azhar";
-char language_spoken[3][10] = {"C", "C++", "java", "python"};
+char language_spoken[4][10] = {"C", "C++", "java", "JS"};
+char frame_work[3][10]={"Angular","React js","Express"}
 }
 
 while(no_CupofTea)
@@ -25,6 +26,7 @@ while(no_CupofTea)
 }
 ```
 ## 🗻 Experience
+- ITT Open source development trainee at 9month deploma 🐧
 - Embedded System iti scholarship program
 - Mentorship trainee at Valeo
 - ⭐⭐⭐⭐ on C Badge on HackerRank
