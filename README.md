@@ -16,8 +16,8 @@ void init()
 {
 char name[] = "Nada Essam";
 char university[] ="Al-Azhar";
-char language_spoken[4][10] = {"C", "C++", "java", "JS"};
-char frame_work[3][10]={"Angular","React js","Express"}
+char language_spoken[4][10] = {"C", "C++", "java","php" ,"JS"};
+char frame_work[3][10]={"Angular","React js"}
 }
 
 while(no_CupofTea)
