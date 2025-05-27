@@ -15,7 +15,6 @@
 void init()
 {
 char name[] = "Nada Essam";
-char university[] ="Al-Azhar";
 char title[] = "MERN Stack Developer"
 char language_spoken[4][10] = {"C", "C++", "java","php" ,"JS"};
 char frame_work[5][100]={"Nodejs with express", "NestJs", "Angular","React js"}
@@ -28,6 +27,7 @@ while(no_CupofTea)
 ```
 ## 🗻 Experience
 - ITT Open source development trainee at 9month deploma 🐧
+- Graduate SCE Al-Azhar University
 - Embedded System iti scholarship program
 - Mentorship trainee at Valeo
 - ⭐⭐⭐⭐ on C Badge on HackerRank
