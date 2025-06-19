@@ -17,7 +17,7 @@ void init()
 char name[] = "Nada Essam";
 char title[] = "MERN Stack Developer"
 char language_spoken[4][10] = {"C", "C++", "java","php" ,"JS"};
-char frame_work[5][100]={"Nodejs with express", "NestJs", "Angular","React js"}
+char frame_work[5][100]={"Nodejs with express", "NestJs", "Angular","React js","Vue"}
 }
 
 while(no_CupofTea)
